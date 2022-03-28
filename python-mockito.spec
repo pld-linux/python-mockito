@@ -20,7 +20,6 @@ Requires:	python-modules
 %if %{with python3}
 BuildRequires:	python3
 BuildRequires:	python3-2to3 >= 1:3.1.1-3
-BuildRequires:	python3-distribute
 BuildRequires:	python3-modules
 %endif
 BuildRequires:	rpm-pythonprov
