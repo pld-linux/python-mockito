@@ -7,7 +7,7 @@
 Summary:	Spying framework
 Name:		python-%{module}
 Version:	0.5.1
-Release:	0.1
+Release:	
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	http://mockito-python.googlecode.com/files/%{module}-python-%{version}.tar.gz
